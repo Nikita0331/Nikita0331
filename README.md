@@ -2,7 +2,9 @@
 - 👀 I’m interested in ML and DataScience
 - 🌱 I’m currently learning CP and ML
 - 📫 How to reach me :
+  
   nikky.j.3112@gmail.com
+  
   linkedin.com/in/nikita-jain-975707213/
 
 <!---
