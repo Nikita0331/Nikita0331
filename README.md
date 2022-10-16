@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Nikita0331
-- 👀 I’m interested in ML and DataScience
-- 🌱 I’m currently learning CP and ML
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Nikita0331">Nikita Jain</a></h1>
+<h3 align="center">A passionate software developer from India :)</h3>
+
+- 👀 I’m interested in **ML and DataScience**
+- 🌱 I’m currently learning **Data Structures & Algorithm and ML**
+- 💬 Ask me about **Python and CPP**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
