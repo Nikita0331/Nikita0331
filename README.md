@@ -13,5 +13,11 @@
 Nikita0331/Nikita0331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="center">
 <img src="forkit.gif "/>
+</p>
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/nikita-jain-975707213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nikita.nikkyjain@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
