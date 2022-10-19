@@ -33,7 +33,10 @@
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita0331&theme=dracula&layout=compact&hide_border=true&area=true)
 </div>
+<div align="center">
     
+![GitHub metrics](https://metrics.lecoq.io/Nikita0331)  
+</div>
 <div align="center">
     
 ![GitHub metrics](https://metrics.lecoq.io/Nikita0331)  
