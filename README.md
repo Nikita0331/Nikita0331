@@ -31,7 +31,7 @@
 <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita0331&layout=compact&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita0331&theme=dracula&layout=compact&hide_border=true&area=true)
 </div>
     
 <div align="center">
