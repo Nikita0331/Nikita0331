@@ -26,7 +26,7 @@
 <div> -->
  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nikita0331s&show_icons=true&theme=synthwave" alt="NikitaJain:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nikita0331&show_icons=true" alt="NikitaJain:: Profile Stats" /></p>
  
 <div align="center">
      
