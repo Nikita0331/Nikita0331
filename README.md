@@ -37,10 +37,7 @@
     
 ![GitHub metrics](https://metrics.lecoq.io/Nikita0331)  
 </div>
-<div align="center">
-    
-![GitHub metrics](https://metrics.lecoq.io/Nikita0331)  
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita0331&" alt="Nikita0331" /></p>
 <p align="center">
 <img src="forkit.gif "/>
 </p>
