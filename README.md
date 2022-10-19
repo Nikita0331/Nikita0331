@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Nikita0331">Nikita Jain</a></h1>
 <h3 align="center">A passionate software developer from India :)</h3>
 
+
+
 - 👀 I’m interested in **ML and DataScience**
 - 🌱 I’m currently learning **Data Structures & Algorithm and ML**
 - 💬 Ask me about **Python and CPP**
@@ -14,8 +16,9 @@
 <h3 align="center">Languages:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<!---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikita0331&show_icons=true&locale=en&layout=compact" alt="Nikita0331" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikita0331&show_icons=true&locale=en" alt="Nikita0331 :: Profile Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita0331&" alt="Nikita0331" /></p>
 Nikita0331/Nikita0331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
