@@ -3,8 +3,7 @@
 
 
 
-- 👀 I’m interested in **ML and DataScience**
-- 🌱 I’m currently learning **Data Structures & Algorithm**
+- 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Python and CPP**
 
 <h3 align="center">Connect with me:</h3>
