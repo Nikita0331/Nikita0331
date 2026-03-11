@@ -1,47 +1,100 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Nikita0331">Nikita Jain</a></h1>
-<h3 align="center">A passionate software developer from India :)</h3>
+<h3 align="center">Full Stack Developer | React • Python • Django</h3>
 
-
-
-- 🌱 I’m currently learning **Django**
-- 💬 Ask me about **Python and CPP**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nikita-jain-975707213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-jain-975707213/" height="30" width="40" /></a>
-<a href="https://github.com/Nikita0331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nikita0331" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/sec_d_1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sec_d_1124" height="30" width="40" /></a>
+Building scalable enterprise applications, dashboards, and backend services.
 </p>
-<h3 align="center">Languages:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita0331)](https://github.com/anuraghazra/github-readme-stats)
-    </div> 
-<div align="center">
-    
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita0331&show_icons=true)  
-<div> -->
- 
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nikita0331&show_icons=true" alt="NikitaJain:: Profile Stats" /></p>
- 
-<div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita0331&theme=dracula&layout=compact&hide_border=true&area=true)
-</div>
-<div align="center">
-    
-![GitHub metrics](https://metrics.lecoq.io/Nikita0331)  
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita0331&" alt="Nikita0331" /></p>
-<p align="center">
-<img src="forkit.gif "/>
+## 👩‍💻 About Me
+
+- 💼 **Full Stack Developer at Airtel Digital (Xtelify)**
+- 🚀 Experience building **enterprise platforms used by 2500+ users**
+- ⚛️ Skilled in **React, SPFx, Python, Django, SQL**
+- 📊 Experienced in building **real-time dashboards, workflow automation systems, and internal developer platforms**
+- 🌱 Currently exploring **scalable backend systems and system design**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
-<h2 align="center">📫 Reach out to me on</h2>
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+</p>
+
+### Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🚀 Professional Projects
+
+> Note: Source code cannot be shared publicly due to company confidentiality policies.
+
+### 🔹 ARC – Airtel Repository for Change
+- Full stack platform to manage **NOC infrastructure change requests**
+- Built with **React dashboards, Python APIs, and Oracle DB**
+- Improved operational visibility and reduced scheduling conflicts by **70%**
+
+### 🔹 NOC-ConnectIn HR Platform
+- Enterprise HR platform used by **2000+ employees**
+- Built dashboards with **React, SPFx, and SharePoint**
+- Automated HR workflows using **Power Automate**
+
+### 🔹 Secure Document Workflow System
+- Backend platform built using **Python Django and SQL**
+- Digitized document approval workflows and tracking
+- Implemented **secure role-based access control**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/nikita-jain-975707213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nikita.nikkyjain@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Nikita0331&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita0331&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita0331&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nikita-jain-975707213/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nikita.nikkyjain@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Nikita0331">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 </p>
